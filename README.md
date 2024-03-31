@@ -29,4 +29,4 @@ Fotos acerca del proyecto
 
 LINKS:
 
-Biblia de estudio para Windows: https://drive.google.com/drive/u/2/my-drive
+Biblia de estudio para Windows: https://drive.google.com/drive/folders/1KedoCG2C1UhnSvH9ZFH1HSRO1SAgUDHY?usp=drive_link
