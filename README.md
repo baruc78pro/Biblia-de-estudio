@@ -2,9 +2,12 @@
 Biblia de estudio totalmente gratuita sin fines de lucro
 
 ====================================================================
+
 En caso de arrojar alerta de virus, el instaladors no contiene virus
-al no detectar autor arrojara esa alerta falsa, ir a instalar de to-
-das formas
+al no detectar autor arrojara esa alerta 
+
+falsa, ir a instalar de todas formas
+
 ====================================================================
 
 LINKS:
