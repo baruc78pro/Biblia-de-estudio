@@ -27,7 +27,10 @@ Fotos acerca del proyecto
 
 ====================================================================
 
-LINKS:
+LINKS
+
+====================================================================
+
 Windows:
 
 Biblia de estudio 2.0.1: https://drive.google.com/drive/folders/1KedoCG2C1UhnSvH9ZFH1HSRO1SAgUDHY?usp=drive_link
