@@ -24,6 +24,17 @@ Fotos acerca del proyecto
 
 [![comentario.png](https://i.postimg.cc/TP1QGygs/comentario.png)](https://postimg.cc/rd65NwhG)
 
+====================================================================
+
+Guía de instalación:
+
+*Al descargar la aplicación el navegador por defecto lanzara una alerta falsa de detección de virus 
+ya que el archivo no esta firmado, favor de indicar al navegador de conservar de todas formas*
+
+*En case que que el instalador de error, porfavor desvargar e instalar el jre el cuál es la máquina
+virtual para que funcione el programa*
+
+JRE: 
 
 ====================================================================
 
