@@ -34,7 +34,7 @@ ya que el archivo no esta firmado, favor de indicar al navegador de conservar de
 *En case que que el instalador de error, porfavor desvargar e instalar el jre el cuál es la máquina
 virtual para que funcione el programa*
 
-JRE: 
+JRE: https://drive.google.com/drive/folders/1rcYE-KoQZsVMM21sWbK03Wmb6CUEWmbf?usp=sharing
 
 ====================================================================
 
