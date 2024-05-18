@@ -3,13 +3,6 @@ Biblia de estudio totalmente gratuita sin fines de lucro
 
 ======================================================================
 
-En caso de arrojar alerta de virus, el instalador no contiene virus
-pero al no detectar autor arrojara esa alerta 
-
-falsa, ir a instalar de todas formas
-
-======================================================================
-
 
 [![inicio.png](https://i.postimg.cc/sgkCZRmw/inicio.png)](https://postimg.cc/MnmFhNhQ)
 
@@ -28,10 +21,15 @@ Fotos acerca del proyecto
 
 Guía de instalación:
 
+*En caso de arrojar alerta de virus, el instalador no contiene virus 
+pero al no detectar autor arrojara esa alerta falsa, ir a instalar 
+de todas formas*
+
+
 *Al descargar la aplicación el navegador por defecto lanzara una alerta falsa de detección de virus 
 ya que el archivo no esta firmado, favor de indicar al navegador de conservar de todas formas*
 
-*En case que que el instalador de error, porfavor descargar e instalar el jre el cuál es el encargado
+*En case que que el instalador de error, porfavor descargar e instalar el jre el cuál es el encargado 
 de ejecutar programas en java*
 
 JRE: https://drive.google.com/drive/folders/1rcYE-KoQZsVMM21sWbK03Wmb6CUEWmbf?usp=sharing
