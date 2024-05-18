@@ -31,8 +31,8 @@ Guía de instalación:
 *Al descargar la aplicación el navegador por defecto lanzara una alerta falsa de detección de virus 
 ya que el archivo no esta firmado, favor de indicar al navegador de conservar de todas formas*
 
-*En case que que el instalador de error, porfavor desvargar e instalar el jre el cuál es la máquina
-virtual para que funcione el programa*
+*En case que que el instalador de error, porfavor descargar e instalar el jre el cuál es el encargado
+de ejecutar programas en java*
 
 JRE: https://drive.google.com/drive/folders/1rcYE-KoQZsVMM21sWbK03Wmb6CUEWmbf?usp=sharing
 
@@ -49,3 +49,5 @@ Biblia de estudio 2.0.1.1: https://drive.google.com/drive/folders/1KedoCG2C1UhnS
 Biblia de estudio 2.1.2.2: https://drive.google.com/drive/u/1/folders/1o6-QveZClSpjR9drVeYkJtmWyxXaCXV-
 
 Biblia de estudio 2.1.2.3: https://drive.google.com/drive/folders/1MhZfnKhHJ5PcIUyhaxXocLpAjDnZDkQl?usp=drive_link
+
+Biblia de estudio 2.1.2.4: 
