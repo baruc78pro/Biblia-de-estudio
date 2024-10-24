@@ -56,3 +56,6 @@ Biblia de estudio 2.1.2.2: https://drive.google.com/drive/u/1/folders/1o6-QveZCl
 Biblia de estudio 2.1.2.3: https://drive.google.com/drive/folders/1MhZfnKhHJ5PcIUyhaxXocLpAjDnZDkQl?usp=drive_link
 
 Biblia de estudio 2.1.2.4: https://drive.google.com/drive/folders/14SlEFdK3ZrmpXueCY1riHu3ZLwC2xQ_b?usp=drive_link
+
+
+Fase: Java Structure: Major Upgrade
