@@ -13,9 +13,13 @@ Fotos acerca del proyecto
 
 ==============================
 
-[![biblia.png](https://i.postimg.cc/7YzF8Rwz/biblia.png)](https://postimg.cc/3dKS2nyr)
+[![2.png](https://i.postimg.cc/2jnR1YsK/2.png)](https://postimg.cc/7bPQRFY3)
 
-[![comentario.png](https://i.postimg.cc/TP1QGygs/comentario.png)](https://postimg.cc/rd65NwhG)
+[![3.png](https://i.postimg.cc/kg1L0gSB/3.png)](https://postimg.cc/CR8vDYmg)
+
+[![4.png](https://i.postimg.cc/qMQFKvjj/4.png)](https://postimg.cc/56YpdbcC)
+
+[![5.png](https://i.postimg.cc/3N1t2tCd/5.png)](https://postimg.cc/QKBg3kz3)
 
 ====================================================================
 
