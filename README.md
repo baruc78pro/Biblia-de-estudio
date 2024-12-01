@@ -4,7 +4,7 @@ Biblia de estudio totalmente gratuita sin fines de lucro
 ======================================================================
 
 
-[![inicio.png](https://i.postimg.cc/sgkCZRmw/inicio.png)](https://postimg.cc/MnmFhNhQ)
+[![1.png](https://i.postimg.cc/XJpjRPX0/1.png)](https://postimg.cc/8JggWthy)
 
 
 ==============================
