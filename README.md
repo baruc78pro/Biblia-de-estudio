@@ -64,6 +64,6 @@ Biblia de estudio 2.1.2.4: https://drive.google.com/drive/folders/14SlEFdK3ZrmpX
 
 Fase: Java Structure Major Upgrade.
 
-Biblia de estudio 2.1.2.5: 
+Biblia de estudio 2.1.2.5: https://drive.google.com/drive/folders/13DSIaGfXFYNcBMVcKn33pRP7P2UWcXUr?usp=sharing
 
 Fase: Java Final Update.
