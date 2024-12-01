@@ -51,7 +51,7 @@ LINKS
 
 Windows(64 bits):
 
-Fase: Java Structure
+Fase: Java Structure.
 
 Biblia de estudio 2.0.1.1: https://drive.google.com/drive/folders/1KedoCG2C1UhnSvH9ZFH1HSRO1SAgUDHY?usp=drive_link
 
@@ -62,4 +62,8 @@ Biblia de estudio 2.1.2.3: https://drive.google.com/drive/folders/1MhZfnKhHJ5PcI
 Biblia de estudio 2.1.2.4: https://drive.google.com/drive/folders/14SlEFdK3ZrmpXueCY1riHu3ZLwC2xQ_b?usp=drive_link
 
 
-Fase: Java Structure: Major Upgrade
+Fase: Java Structure Major Upgrade.
+
+Biblia de estudio 2.1.2.5: 
+
+Fase: Java Final Update.
