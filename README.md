@@ -1,5 +1,7 @@
 # Biblia-de-estudio
-Biblia de estudio totalmente gratuita sin fines de lucro
+Biblia de estudio totalmente gratuita sin fines de lucro.
+
+Los módulos código abierto y las nuevas Bible Java Preview están disponibles en Sourceforge.
 
 ======================================================================
 
