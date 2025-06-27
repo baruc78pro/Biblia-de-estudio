@@ -101,4 +101,26 @@ Biblia de estudio 2.1.2.5: https://drive.google.com/drive/folders/13DSIaGfXFYNcB
 
 Biblia de estudio bjp1: https://drive.google.com/file/d/1Mux0-8vSZ55YJ4wgkg6KHc_a_g5bx9jr/view?usp=sharing
 
+#Java previews:
+
+Biblia de estudio java preview 0.1 https://sourceforge.net/projects/biblia-java/files/
+
+Biblia de estudio java preview 0.2 https://sourceforge.net/projects/biblia-java/files/
+
+Biblia de estudio java preview 0.3 https://sourceforge.net/projects/biblia-java/files/
+
+Biblia de estudio java preview 0.4 https://sourceforge.net/projects/biblia-java/files/
+
+Biblia de estudio java preview 0.5 https://sourceforge.net/projects/biblia-java/files/
+
+Biblia de estudio java preview 0.6 https://sourceforge.net/projects/biblia-java/files/
+
+Biblia de estudio java preview 0.7 https://sourceforge.net/projects/biblia-java/files/
+
+Biblia de estudio java preview 0.8 https://sourceforge.net/projects/biblia-java/files/
+
+Biblia de estudio java preview 0.9 https://sourceforge.net/projects/biblia-java/files/
+
+Biblia de estudio java preview 0.10 https://sourceforge.net/projects/biblia-java/files/
+
 #Java Final Update.
