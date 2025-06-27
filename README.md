@@ -18,6 +18,18 @@ Malware Inc. podrá revocar el acceso, retirar el software e iniciar procedimien
 El código no puede ser vendido, revendido, incluido como regalo en compras, ni ofrecido como parte de suscripciones o servicios pagos.
 Este software ha sido creado como una herramienta gratuita de estudio bíblico con el propósito de romper barreras de accesibilidad y promover el conocimiento de la Palabra de Dios.
 
+4.-Prohibido el uso con fines políticos o ideológicos
+Queda prohibido usar este software como medio de propaganda política, movimientos sociales no cristocéntricos o ideologías ajenas a su propósito bíblico y espiritual.
+
+5.-Respeto por el propósito espiritual del software
+El usuario se compromete a usar el software con respeto, entendiendo que ha sido creado como un recurso de edificación cristiana, y no para burla, sátira religiosa o contenido blasfemo.
+
+6.-Prohibido el uso con inteligencia artificial con propositos que tergiverse doctrinas
+No se permite conectar este software a sistemas de inteligencia artificial que interpreten o modifiquen el contenido bíblico con doctrinas no bíblicas, contradictorias al cristianismo evangélico.
+
+7.-modificaciones no autorizadas
+No se permite alterar, descompilar, ni modificar el código con el fin de cambiar su propósito, insertar doctrinas contrarias al cristianismo evangélico, ni eliminar elementos de autoría, referencias a Malware Inc. o protecciones incluidas.
+
 ======================================================================
 
 
