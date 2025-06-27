@@ -3,6 +3,21 @@ Biblia de estudio totalmente gratuita sin fines de lucro.
 
 Los módulos código abierto y las nuevas Bible Java Preview están disponibles en Sourceforge.
 
+El uso del código del programa está permitido conforme a las siguientes reglas:
+
+1.-Prohibido el uso para robo o mal manejo de datos
+Queda estrictamente prohibido utilizar el código con fines de robo, extracción o uso indebido de datos.
+Todos los datos deben ser almacenados de manera forzosa y exclusivamente en local, sin conexión a servidores externos ni servicios de terceros.
+
+2.-Uso exclusivo para el cristianismo evangélico
+Este software ha sido diseñado como una herramienta de apoyo para el estudio bíblico dentro del cristianismo evangélico.
+El uso del programa con fines católicos o vinculados a cualquier otra religión queda terminantemente prohibido(el catolicismo no se considera cristianismo).
+Malware Inc. podrá revocar el acceso, retirar el software e iniciar procedimientos legales si detecta un uso indebido en este sentido.
+
+3.-Prohibida la comercialización del código fuente
+El código no puede ser vendido, revendido, incluido como regalo en compras, ni ofrecido como parte de suscripciones o servicios pagos.
+Este software ha sido creado como una herramienta gratuita de estudio bíblico con el propósito de romper barreras de accesibilidad y promover el conocimiento de la Palabra de Dios.
+
 ======================================================================
 
 
