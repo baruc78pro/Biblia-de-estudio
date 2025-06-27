@@ -3,6 +3,8 @@ Biblia de estudio totalmente gratuita sin fines de lucro.
 
 Los módulos código abierto y las nuevas Bible Java Preview están disponibles en Sourceforge.
 
+Plataforma de desarrollo: Netbeans 17 + Oracle JDK 21
+
 El uso del código del programa está permitido conforme a las siguientes reglas:
 
 1.-Prohibido el uso para robo o mal manejo de datos
