@@ -1,4 +1,6 @@
-# Biblia-de-estudio  state:open label:documentation author:baruc78pro 
+# Biblia-de-estudio  
+
+state:open label:documentation author:baruc78pro 
 Biblia de estudio totalmente gratuita sin fines de lucro.
 
 Los módulos código abierto y las nuevas Bible Java Preview están disponibles en Sourceforge.
